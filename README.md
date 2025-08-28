@@ -1,4 +1,4 @@
-# 3DVXRPointCloudVisualization
+# Point Cloud Visualization and Manipulation in Unity
 _By Nicola Ravagnan and Alessandro Benetti_
 
 ![Picture of running program](https://github.com/LilNick0101/3DVXRPointCloudVisualization/blob/main/pic.png?raw=true)
