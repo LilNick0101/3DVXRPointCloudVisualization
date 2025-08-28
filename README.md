@@ -16,7 +16,7 @@ Features:
 - Change lighting conditions, such as the time of day.
 - Loading and saving of point cloud files in .ply format on the disk.
 
-# Keybindings
+## Keybindings
 
 - `WASD` - Move around the space
 - `Space` - Go up
