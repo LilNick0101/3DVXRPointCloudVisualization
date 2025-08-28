@@ -24,5 +24,6 @@ Features:
 - `Left Click` - Toggle select points
 - `Right Click` - Add points
 - `Z` - Toggle gravity
+- `Del` - Delete selected points
 - `numpad +-` - Change size of the points
 - `Escape` - Toggle menu with settings
