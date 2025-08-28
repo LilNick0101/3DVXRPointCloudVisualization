@@ -1,7 +1,7 @@
 # 3DVXRPointCloudVisualization
 _By Nicola Ravagnan and Alessandro Benetti_
 
-![alt text](https://github.com/LilNick0101/3DVXRPointCloudVisualization/blob/main/pic.png?raw=true)
+![Picture of running program](https://github.com/LilNick0101/3DVXRPointCloudVisualization/blob/main/pic.png?raw=true)
 
 A Unity program to visualize, modify, and save point cloud files .ply, made for the 3D Vision and Extended Reality project during A.Y. 2024/2025.
 
